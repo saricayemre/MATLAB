@@ -3,5 +3,4 @@ function sonuc=LCG(x0,a,c,m)
     xyeni= mod(xyeni,m)
     sonuc=xyeni/m
     x0=xyeni
-    end
 end
