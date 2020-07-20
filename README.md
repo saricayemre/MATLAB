@@ -1,4 +1,4 @@
 # MATLAB
 MATLAB ile ilgili algoritmalar ve kodlar paylaşılacaktır.
-** İÇİNDEKİLER **
+**İÇİNDEKİLER**
   LCG(Linear Congruential Generator)
